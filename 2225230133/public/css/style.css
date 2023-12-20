@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(212, 211, 211);
+	background-size: cover;
+	background-position: center;
+	color: rgb(0, 0, 0);
+}
+.front-content-full-left{
+	text-align: center;
+	font-family: Optima;
+}
+.text-center{
+	font-family: Arial-narrow;
+}
+.front-content-full-left{
+	width: auto;
+	margin: auto;
+	color: black;
+	border-radius: 5px;
+	font-family: Arial-narrow;
+	background: whitesmoke;
+	border: 1px solid rgb(154, 153, 153);
+	backdrop-filter: blur(25px);
+	box-shadow: 0 0 5px rgb(154, 153, 153);
+}
+
+.badan{
+    width:auto;
+	margin: auto;
+	color: black;
+	border-radius: 5px;
+	font-family: Arial-narrow;
+	background: whitesmoke;
+	border: 1px solid rgb(154, 153, 153);
+	backdrop-filter: blur(25px);
+	box-shadow: 0 0 5px rgb(154, 153, 153);
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	font-size: 30px;
+	margin: auto;
+	font-family: Arial-narrow;
+	text-align: center;
+}
+table {
+	margin: auto;
+	padding-bottom: 5px;
+}
+table td {
+	padding: 5px;
+}
+button {
+	width: 50px;
+	font-family: Arial-narrow;
+	height: 30px;
+	border-radius: 7px;
+}
+.tablephp {
+	width: 500px;
+	margin: auto;
+	color: white;
+	border-radius: 10px;
+	font-family: Arial-narrow;
+	background-color: transparent;
+	border: 2px solid rgba(200, 200, 200, .2);
+	backdrop-filter: blur(50px);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 1.0);
+}
+.judulphp {
+	font-family: Market_felt;
+	font-size: 36px;
+}
